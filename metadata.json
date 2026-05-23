@@ -1,0 +1,6 @@
+{
+  "name": "ZGC Studio",
+  "description": "Premium cinematic design portfolio and interactive creative agency platform for ZGC Studio (Zizo Graphic Creative).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
